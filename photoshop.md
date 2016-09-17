@@ -20,3 +20,4 @@ combinate shape
 Android and Ios
 	you have to use diferent grids for android
 	icons on android can tranparent
+	
